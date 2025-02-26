@@ -1,0 +1,11 @@
+{
+  "instances": [
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "url": "https://invidious.nerdvpn.de/"
+    }
+  ]
+}
